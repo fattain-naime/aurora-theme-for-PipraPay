@@ -1,0 +1,10 @@
+{
+    "accent_color": "#6759ff",
+    "accent_gradient": "linear-gradient(120deg, #6759ff 0%, #ff7ce5 100%)",
+    "hero_title": "Complete your payment",
+    "hero_message": "Aurora keeps your checkout short, clean, and fully secure.",
+    "support_tagline": "Need help? We are online 24/7.",
+    "success_cta": "Return to merchant",
+    "show_faq": "yes",
+    "auto_redirect": "Disabled"
+}
